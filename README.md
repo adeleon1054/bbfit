@@ -1,3 +1,7 @@
+Body Beach Fitness was a poject for school where I develope a website using yii2 2 advance framework. 
+
+View demo: school.asdruval.com
+
 Yii 2 Advanced Application Template
 ===================================
 
